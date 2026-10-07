@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 温暖孕产主题色（与 Web 端一致） -->
+    <color name="primary">#F6A7A1</color>
+    <color name="primary_dark">#E88A83</color>
+    <color name="primary_light">#FCE4E1</color>
+    <color name="secondary">#A8D8EA</color>
+    <color name="accent">#FFD3B4</color>
+    <color name="bg_body">#FFF5F0</color>
+    <color name="card_bg">#FFF8F5</color>
+    <color name="text_dark">#4A2C24</color>
+    <color name="text_muted">#8A6A60</color>
+    <color name="text_light">#C0A69C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="danger">#E74C3C</color>
+    <color name="success">#27AE60</color>
+    <color name="border_light">#F0DDD6</color>
+    <color name="morning_bg">#FDE8D0</color>
+    <color name="morning_fg">#A06840</color>
+    <color name="afternoon_bg">#FCE8B0</color>
+    <color name="afternoon_fg">#8A7020</color>
+    <color name="evening_bg">#D4D0F0</color>
+    <color name="evening_fg">#4A4080</color>
+</resources>
