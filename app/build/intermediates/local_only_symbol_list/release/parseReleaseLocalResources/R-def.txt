@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+anim slide_in_right
+anim slide_out_left
+color accent
+color afternoon_bg
+color afternoon_fg
+color bg_body
+color border_light
+color card_bg
+color danger
+color evening_bg
+color evening_fg
+color morning_bg
+color morning_fg
+color primary
+color primary_dark
+color primary_light
+color secondary
+color success
+color text_dark
+color text_light
+color text_muted
+color white
+drawable ic_chart
+drawable ic_home
+drawable ic_memo
+drawable ic_notify
+drawable ic_settings
+mipmap ic_launcher
+string app_name
+style Theme.HCYun
